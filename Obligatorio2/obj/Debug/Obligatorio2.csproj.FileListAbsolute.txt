@@ -1,0 +1,158 @@
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\ApplicationInsights.config
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\roslyn\csc.exe
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\roslyn\vbc.exe
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\roslyn\VBCSCompiler.exe
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Obligatorio2.dll.config
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Obligatorio2.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Obligatorio2.pdb
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Antlr3.Runtime.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\EntityFramework.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\EntityFramework.SqlServer.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.AI.Web.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.AI.WindowsServer.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.ApplicationInsights.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.Google.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Newtonsoft.Json.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Owin.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\System.Web.Optimization.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\System.Web.Providers.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\WebGrease.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.AI.Web.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.AI.WindowsServer.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.ApplicationInsights.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\System.Web.Optimization.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Antlr3.Runtime.pdb
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Newtonsoft.Json.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\EntityFramework.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\EntityFramework.SqlServer.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\System.Web.Providers.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.Google.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\obj\Debug\Obligatorio2.csprojResolveAssemblyReference.cache
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\obj\Debug\Obligatorio2.dll
+c:\users\angelo pescetto\documents\visual studio 2015\Projects\Obligatorio2\Obligatorio2\obj\Debug\Obligatorio2.pdb
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\ApplicationInsights.config
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\roslyn\csc.exe
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\roslyn\vbc.exe
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Obligatorio2.dll.config
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Obligatorio2.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Obligatorio2.pdb
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Antlr3.Runtime.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\EntityFramework.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\EntityFramework.SqlServer.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.AI.Web.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Newtonsoft.Json.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Owin.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\System.Web.Optimization.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\System.Web.Providers.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\WebGrease.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.AI.Web.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\System.Web.Optimization.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Antlr3.Runtime.pdb
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Newtonsoft.Json.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\EntityFramework.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\EntityFramework.SqlServer.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\System.Web.Providers.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\obj\Debug\Obligatorio2.csprojResolveAssemblyReference.cache
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\obj\Debug\Obligatorio2.dll
+C:\Users\Angelo Pescetto\Desktop\Obligatorio2_AngeloPescetto\Obligatorio2\Obligatorio2\obj\Debug\Obligatorio2.pdb
